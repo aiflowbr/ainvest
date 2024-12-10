@@ -1,2 +1,2 @@
-# ainvest
-AI-Investing
+# AInvest
+AInvesting
